@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm a new Software Developer and very excited to be on this journey!
+🌱 I’m currently learning algorithm and programming basics with Tech Elevator
+👯 I’m looking to collaborate on any projects that will allow me to contribute to a team and  help me grow as a developer 
+🤔 I’m looking for help with improving my coding skills
+⚡ Fun fact: I used to be an architecture and sustainable design professor
+
 
 <!--
 **ChitsMW/ChitsMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
