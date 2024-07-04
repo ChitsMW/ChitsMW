@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm a new Software Developer and very excited to be on this journey!
-🌱 I’m currently learning algorithm and programming basics with Tech Elevator
+🔭 I’m currently working on a breasfeeding tracking app to help make my life a little easier
+🌱 I learned algorithm and programming basics with Tech Elevator where I graduated in February 2024
 👯 I’m looking to collaborate on any projects that will allow me to contribute to a team and  help me grow as a developer 
 🤔 I’m looking for help with improving my coding skills
 ⚡ Fun fact: I used to be an architecture and sustainable design professor
