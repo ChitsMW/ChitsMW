@@ -1,23 +1,17 @@
 ### Hi there 👋
-I'm a new Software Developer and very excited to be on this journey!
-🔭 I’m currently working on a couple full stack apps to help make my life a little easier
-🌱 I learned algorithm and programming basics with Tech Elevator where I graduated in February 2024
-👯 I’m looking to collaborate on any projects that will allow me to contribute to a team and  help me grow as a developer 
-🤔 I’m looking for help with improving my coding skills
-⚡ Fun fact: I used to be an architecture and sustainable design professor
 
+I'm Chitsanzo, founder of Duplii - AI-powered form management platform that gives parents and caregivers their time back.
 
-<!--
-**ChitsMW/ChitsMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After being laid off in October 2025, I decided to solve my own biggest parenting frustration: filling out the same school forms repeatedly. I interviewed 30+ parents, validated the problem (61% cited repetitive data entry as their #1 pain point), and built the solution.
 
-Here are some ideas to get you started:
+Now I'm training custom AI models, building in public, and creating a product that lets parents enter their child's information once and auto-fill any form.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background spans 15+ years in product management, design, teaching, and entrepreneurship. I've helped companies achieve HIPAA compliance, built AI-powered products, and shipped 0-to-1 solutions. I'm as comfortable doing user research to fully understand the underlying pain points with empathy.
+
+I believe technology should make life better - and I'm building Duplii to prove it.
+
+Currently: Completing beta, launching January 2026, and giving parents back their precious time.
+
+Want to join the journey? duplii.ai
+
+💜 Parent | Product Manager | Founder | Building something that matters
